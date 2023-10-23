@@ -32,8 +32,8 @@ putchar((digit1 % 10) + '0');
 		}
 	}
 
-		putchar('\n');
+putchar('\n');
 
-		return (0);
+return (0);
 
 }
